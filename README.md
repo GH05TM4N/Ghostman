@@ -16,7 +16,7 @@ sh Ghostman.sh
 # Jangan Lupa mampir di blog saya 
 
 
-# https://BlackHydraIndonesia.blogspot.com/
+# https://blackhydraofficial.blogspot.com/
 
 # CUMAN UNCODE GAN :V
 
